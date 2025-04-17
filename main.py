@@ -90,7 +90,7 @@ if __name__ == '__main__':
     # 迭代次数
     iter_times = 500
     # 保存文件夹名称
-    file_path = os.path.join(os.getcwd(), 'plate_images')
+    file_path = os.path.join(os.getcwd(), 'plate_imageshh')
     os.makedirs(file_path, exist_ok=True)
     start_index = 0
     sys.stdout.write('{}: total {} iterations ...\n'.format(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),

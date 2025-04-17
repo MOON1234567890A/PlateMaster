@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2020 leijd
+Copyright (c) 2019 郑煜伟  
+Copyright (c) 2020 leijd  
+Copyright (c) 2025 MOON1234567890A
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### 致谢
+
+本项目基于以下开源项目进行改进：
+
+- [Pengfei8324/chinese_license_plate_generator](https://github.com/Pengfei8324/chinese_license_plate_generator)
+- [zheng-yuwei/license-plate-generator](https://github.com/zheng-yuwei/license-plate-generator)
+
+感谢原作者的开源贡献，作为基础代码，我们在此基础上进行了扩展与改进，增加了更多自定义功能和生成选项。
