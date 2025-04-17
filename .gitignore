@@ -1,0 +1,12 @@
+# Python 编译文件
+__pycache__/
+
+# PyCharm 或其他 IDE 文件
+.idea/
+
+# VSCode 配置文件
+.vscode/
+
+# 其他可能的临时文件
+plate_images/
+
